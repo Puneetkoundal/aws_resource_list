@@ -1,2 +1,4 @@
 # aws_resource_list
-dfdsf
+This script will list all the resources in the account.  
+Following are the supported AWS services by the script.  
+ec2, s, RDS, DynamoDB, lambda, EBS, ELB, Cloudfront, Cloudwatch, SNS, SQS, Route53, VPC, IAM, EKS
